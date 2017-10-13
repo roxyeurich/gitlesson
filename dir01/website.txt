@@ -1,6 +1,10 @@
 Line 1 stuff
 Line 2 more stuff
 Line 3 even more stuff
+Line 4 adding
+Line 5 more adding
+Line 6 I'm in a branch
+Line 7 It will be different than the master branch
 
 
 
